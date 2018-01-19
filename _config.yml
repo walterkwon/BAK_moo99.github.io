@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+page_permalink:   pretty
+
+# Setup
+title:            moo99
+tagline:
+description:      無
+url:              http://moo99.github.io
+baseurl:          http://moo99.github.io/
+
+author:
+  name:           'Jack Kwon'
+  url:            https://twitter.com/Kwonhyuckmin
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/moo99
