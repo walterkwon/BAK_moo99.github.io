@@ -3,12 +3,7 @@ layout: page
 title: Search
 ---
 
-
-
-
-  <div id="search-searchbar"></div>
-
-  <div class="post-list" id="search-hits">
+<div class="post-list" id="search-hits">
     {% for post in site.posts %}
       <div class="post-item">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
