@@ -2,6 +2,14 @@
 markdown:         kramdown
 highlighter:      rouge
 
+
+algolia:
+   application_id: 600WCX6IGK
+   index_name: moo99.github.io
+   search_only_api_key: d738a7a4f549be6c1dd19ae9c6d1522e
+
+
+
 # Permalinks
 permalink:        pretty
 page_permalink:   pretty
