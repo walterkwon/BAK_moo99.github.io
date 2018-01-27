@@ -24,7 +24,7 @@ url:              http://moo99.github.io
 baseurl:          http://moo99.github.io/
 
 author:
-  name:           'moo99
+  name:           'moo99'
   url:            https://twitter.com/Kwonhyuckmin
 
 paginate:         5
