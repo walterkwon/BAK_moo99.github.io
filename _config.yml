@@ -17,20 +17,20 @@ permalink:        pretty
 page_permalink:   pretty
 
 # Setup
-title:            moo99
+title:            My Index Cards
 tagline:
-description:      無
+description:      personal logs and database
 url:              http://moo99.github.io
 baseurl:          http://moo99.github.io/
 
 author:
-  name:           'Jack Kwon'
+  name:           'moo99
   url:            https://twitter.com/Kwonhyuckmin
 
 paginate:         5
 
 # Custom vars
-version:          0.0.1
+version:          0.0.2
 
 github:
   repo:           https://github.com/moo99
