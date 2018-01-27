@@ -19,7 +19,7 @@ page_permalink:   pretty
 # Setup
 title:            Index Cards
 tagline:
-description:      personal logs and database
+description:      personal logs
 url:              http://moo99.github.io
 baseurl:          http://moo99.github.io/
 
