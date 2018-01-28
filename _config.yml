@@ -18,7 +18,7 @@ title:            Index Cards
 tagline:
 description:      personal logs
 url:              http://moo99.github.io
-baseurl:          ""
+baseurl:          http://moo99.github.io/
 
 author:
   name:           'moo99'
