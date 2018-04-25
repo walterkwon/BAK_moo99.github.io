@@ -10,7 +10,7 @@ algolia:
 
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 page_permalink:   pretty
 
 # Setup
